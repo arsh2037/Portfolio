@@ -3,7 +3,7 @@ import React from 'react';
 function Portfolio() {
   const experiences = ['Experience 1', 'Experience 2', 'Experience 3'];
   const projects = ['Project 1', 'Project 2', 'Project 3'];
-// small change to restart the build
+// small change to restart the build2
   return (
     <div className="min-h-screen bg-gradient-to-r from-cyan-400 to-light-blue-500 py-6 flex flex-col justify-center sm:py-12">
       <div className="relative px-4 sm:px-0">
