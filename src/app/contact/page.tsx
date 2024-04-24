@@ -16,15 +16,14 @@ const Contact: NextPage = () => {
               <div className="icon">
                 <i className="fa fa-map-marker" />
               </div>
-              <h4>Darwin</h4>
+              <h4>Darwin <br/> Australia</h4>
          
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
             <div className="contact-info-item padd-15">
-              <div className="icon">
-                <i className="fa fa-phone" />
-              </div>
+              
+             
              
             </div>
             {/* contact-info-item Ended */}
